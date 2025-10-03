@@ -5,15 +5,23 @@ This project showcases my journey as a Computer Science student, aspiring softwa
 
 ✨ Features
 
-🎨 Modern design with responsive layout (desktop & mobile).
-🙋 About Me section introducing who I am and what I do.
-🏆 Experience and achievements, including hackathon awards.
-📄 Resume preview & download for quick access.
-💡 Skills section with programming languages and tools.
-📜 Certificates & Awards (Cisco, HackerRank, etc.).
-💻 Projects showcase with live demos and descriptions.
-📬 Contact form & social links for easy communication.
+✨ Features
 
+🎨 Modern design with responsive layout (desktop & mobile).
+
+🙋 About Me section introducing who I am and what I do.
+
+🏆 Experience and achievements, including hackathon awards.
+
+📄 Resume preview & download for quick access.
+
+💡 Skills section with programming languages and tools.
+
+📜 Certificates & Awards (Cisco, HackerRank, etc.).
+
+💻 Projects showcase with live demos and descriptions.
+
+📬 Contact form & social links for easy communication.
 🚀 How to Use
 
 Clone the repository:
