@@ -22,6 +22,7 @@ This project showcases my journey as a Computer Science student, aspiring softwa
 💻 Projects showcase with live demos and descriptions.
 
 📬 Contact form & social links for easy communication.
+
 🚀 How to Use
 
 Clone the repository:
